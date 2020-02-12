@@ -3,7 +3,7 @@ package ConversorMonetario;
 
 /*
 Protótipo de classe Java para implementação de conversor monetário. 
-@author Cairo Faleiros RA580171
+@author Cairo Faleiros de Figueiredo RA580171
 Date: out/2015
  */
 
